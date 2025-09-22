@@ -62,7 +62,7 @@ const AirbnbCloneLanding: React.FC = () => {
       <nav className="px-6 py-4 md:px-12 lg:px-20 flex items-center justify-between border-b border-gray-100">
         <div className="flex items-center space-x-8">
           <div className="text-black font-black text-2xl tracking-tighter">
-            wanderly
+            Waterbnb
           </div>
           <div className="hidden md:flex space-x-8 text-sm font-medium text-gray-700">
             <a href="#" className="hover:text-black transition-colors">
